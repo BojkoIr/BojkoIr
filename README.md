@@ -1,107 +1,88 @@
-<h1 align="center">Привет! Я Ирина 👋</h1>
+<!-- Баннер -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BojkoIr/BojkoIr/main/assets/banner.png" alt="banner" />
+</p>
 
+<h1 align="center">Привет! Я Ирина 👋</h1>
 <p align="center">
   <b>Data / BI Analyst</b> с опытом в банковской и экономической аналитике<br/>
-  Работаю с SQL, Python и BI-платформами для анализа и визуализации данных
+  Люблю извлекать инсайты из данных и визуализировать сложное — просто
 </p>
 
 <p align="center">
   <a href="mailto:bojko_irina@mail.ru">
-    <img src="https://img.shields.io/badge/Email-bojko__irina%40mail.ru-blue?style=for-the-badge&logo=gmail" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-bojko__irina%40mail.ru-blue?style=flat-square&logo=gmail" />
   </a>
   <a href="https://t.me/bojko86">
-    <img src="https://img.shields.io/badge/Telegram-@bojko86-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+    <img src="https://img.shields.io/badge/Telegram-@bojko86-26A5E4?style=flat-square&logo=telegram" />
   </a>
-  <img src="https://img.shields.io/badge/Languages-RU%20%7C%20EN%20%7C%20DE-green?style=for-the-badge" alt="Languages Badge" />
 </p>
 
 ---
 
-### 🧩 Обо мне
+### 🔹 Обо мне
 
-- Аналитик данных с опытом в банковской сфере и экономике  
-- Люблю превращать сырые таблицы в понятные дашборды и конкретные выводы  
-- Интересуюсь продуктовой и бизнес-аналитикой, визуализацией и автоматизацией отчётности  
-
----
-
-### 🛠 Технологии и инструменты
-
-**Языки и базы данных**
-- SQL (PostgreSQL, Greenplum)
-- Работа с DWH и реляционными БД
-- Основы NoSQL (Hadoop экосистема)
-
-**Аналитика и визуализация**
-- Power BI, Tableau, Qlik Sense  
-- Excel (advanced: сводные, Power Query)
-- Google Sheets
-
-**Python для анализа данных**
-- Jupyter Notebook, Yandex DataLab (аналог Jupyter)
-- `pandas`, `numpy`, `matplotlib`
-- Streamlit — интерактивные аналитические приложения
-
-**Big Data инструменты**
-- Apache Spark
-- Hadoop (HDFS, MapReduce — базовое понимание)
-- Greenplum для аналитических вычислений
-
-**Организация работы**
-- Постановка аналитических задач
-- Документирование, подготовка презентаций и отчётов
+- Data & BI Analyst — банковская аналитика, экономика, продуктовые метрики  
+- SQL + Python + BI → аналитика, дашборды и отчётность  
+- Интерес: визуализация данных, анализ поведения клиентов, автоматизация процессов
 
 ---
 
-### 📂 Примеры проектов
+### 🛠 Технический стек
 
-**1. Анализ оттока клиентов банка**
-
-[🔗 Репозиторий `bankproject`](https://github.com/BojkoIr/bankproject)
-
-- Streamlit-приложение для анализа оттока клиентов банка  
-- Фильтры по географии, полу, возрасту и другим признакам  
-- Визуализация ключевых факторов, влияющих на уход клиентов  
-- Датасет с Kaggle, акцент на сегментацию и поиск риск-групп
-
-**2. Анализ динамики зарплат и инфляции (итоговый проект)**  
-
-[🔗 Репозиторий `my_final_project`](https://github.com/BojkoIr/my_final_project)
-
-- Анализ изменения средних зарплат по отраслям и корректировка на инфляцию  
-- Jupyter Notebook + Streamlit-приложение  
-- Реальные данные Росстата и открытые данные по инфляции  
-- Графики номинальных и реальных зарплат, выводы по динамике покупательной способности
+| Категория | Технологии |
+|----------|------------|
+| 📊 BI | Power BI · Tableau · Qlik Sense |
+| 🗄 SQL / DWH | PostgreSQL · Greenplum · DWH · Hadoop basics |
+| 🐍 Python | pandas · numpy · matplotlib · Streamlit |
+| ☁ Среды | Jupyter Notebook · Yandex DataLab |
+| ⚙ Big Data | Apache Spark |
+| 📈 Excel | продвинутые формулы · Power Query |
+| 🔧 Workflows | Jira · документация · презентации |
 
 ---
 
-### 📈 GitHub статистика
+### 🚀 Проекты
+
+#### 1️⃣ Анализ оттока клиентов банка  
+📍 Streamlit • SQL • Визуализация  
+🔗 https://github.com/BojkoIr/bankproject
+
+Скрин ниже 👇 *(добавим реальный)*  
+<img src="https://raw.githubusercontent.com/BojkoIr/BojkoIr/main/assets/bank.png" width="600"/>
+
+—
+
+#### 2️⃣ Анализ зарплат и инфляции  
+📍 Python • Статистика • Росстат  
+🔗 https://github.com/BojkoIr/my_final_project
+
+Скрин ниже 👇 *(добавим реальный)*  
+<img src="https://raw.githubusercontent.com/BojkoIr/BojkoIr/main/assets/salary.png" width="600"/>
+
+---
+
+### 📈 GitHub Активность
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=BojkoIr&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BojkoIr&layout=compact&hide_border=true&theme=transparent"
-    alt="Top languages" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BojkoIr&theme=transparent&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BojkoIr&layout=compact&theme=transparent&hide_border=true" width="49%" />
 </p>
 
 ---
 
-### 🌍 Языки
+### 🎯 Что я ищу сейчас
 
-- Русский — родной  
-- English — Intermediate (B1)  
-- Deutsch — fortgeschritten (C1)  
+> Роль **Data / BI Analyst**  
+> Финтех, телеком, e-commerce, продуктовые команды
 
 ---
 
 ### 📫 Контакты
 
-- Telegram: [@bojko86](https://t.me/bojko86)  
-- Email: [bojko_irina@mail.ru](mailto:bojko_irina@mail.ru)
+📨 Email: **bojko_irina@mail.ru**  
+💬 Telegram: **[@bojko86](https://t.me/bojko86)**  
+
+---
+
+⭐ Спасибо, что заглянули в мой профиль!
